@@ -1,5 +1,5 @@
 # probabilistic-forecasting
-A model-agnostic library providing visual and analytical tools to assess the calibration and sharpness of probabilistic forecasts.
+A model-agnostic meta library that provides tool for a unified format of probabilistic forecasts, their visualization and assessment.
 
 ## Goal
 Many (python) libraries provide a wide range of models to predict future values of a time series. Among them, the `scikit-learn`-equivalent `sktime` from the [alan-turing-institue](https://github.com/alan-turing-institute/sktime), `prophet` by [facebook](https://facebook.github.io/prophet/), 
